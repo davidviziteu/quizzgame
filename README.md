@@ -1,4 +1,4 @@
-# quizzgame - Computernetworks project
+# quizzgame - Computer networks college project
 
 Please read the [documentation](./App_documentation.pdf) for more details. 
 
