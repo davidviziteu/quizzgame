@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<questions>
+    <entry text="Cine a spus 'Zarurile au fost aruncate'?" ans="b">
+        <ans letter="a">Einstein</ans>
+        <ans letter="b">Caesar</ans>
+    </entry>
+
+    <entry text="In ce oras au fost executati sotii Ceausescu?" ans="g">
+        <ans letter="a">Cluj-Napoca</ans>
+        <ans letter="b">Targoviste</ans>
+        <ans letter="c">Alba-Iulia</ans>
+        <ans letter="d">Iasi</ans>
+        <ans letter="e">Vaslui</ans>
+        <ans letter="f">Bacau</ans>
+        <ans letter="g">Bucuresti</ans>
+    </entry>
+
+    <entry text="In ce an a aderat Romania la UE?" ans="c">
+        <ans letter="a">2010</ans>
+        <ans letter="b">2009</ans>
+        <ans letter="c">2007</ans>
+    </entry>
+
+    <entry text="Cati ani este mierea naturala comestibila?" ans="d">
+        <ans letter="a">10</ans>
+        <ans letter="b">23</ans>
+        <ans letter="c">570</ans>
+        <ans letter="d">3000</ans>
+    </entry>
+
+    <entry text="Ce sortiment de bere se fabrica intens pana in anul 2014, in orasul Cluj-Napoca?" ans="a">
+        <ans letter="a">Ursus</ans>
+        <ans letter="b">Clujana</ans>
+        <ans letter="c">Timisoreana</ans>
+        <ans letter="d">Tuborg</ans>
+        <ans letter="e">Neumarkt</ans>
+    </entry>
+
+    <entry text="Cine a exclamat 'Evrika'?" ans="c">
+        <ans letter="a">Aristotel</ans>
+        <ans letter="b">Einstein</ans>
+        <ans letter="c">Arhimede</ans>
+    </entry>
+
+    <entry text="Ce firma a cumparat jocul Minecraft?" ans="c">
+        <ans letter="a">Samsung</ans>
+        <ans letter="b">Mojang</ans>
+        <ans letter="c">Microsoft</ans>
+        <ans letter="d">Nike</ans>
+    </entry>
+
+    <entry text="Cine interpreteaza piesa 'Doar un Craciun cu tine'?" ans="c">
+        <ans letter="a">Gil Dobrica</ans>
+        <ans letter="b">Savoy</ans>
+        <ans letter="c">Stefan Banica Jr</ans>
+        <ans letter="d">Mirabela Dauer, Dan Spataru</ans>
+    </entry>
+
+    <entry text="Din ce tara provine sushi?" ans="c">
+        <ans letter="a">Spania</ans>
+        <ans letter="b">Anglia</ans>
+        <ans letter="c">Japonia</ans>
+    </entry>
+
+    <entry text="Cine este cel mai bun prieten a lui Mr. Bean" ans="a">
+        <ans letter="a">Ursuletul lui de plus</ans>
+        <ans letter="b">Un vecin</ans>
+        <ans letter="c">Mama lui</ans>
+        <ans letter="d">Cainele lui</ans>
+    </entry>
+
+    <entry text="Cati membri are un trio?" ans="c">
+        <ans letter="a">1</ans>
+        <ans letter="b">2</ans>
+        <ans letter="c">3</ans>
+        <ans letter="d">4</ans>
+    </entry>
+
+    <entry text="Care este a 10-a litera din alfabetul roman?" ans="j">
+    </entry>
+
+    <entry text="La ce temperatura maxima are loc fotosinteza?" ans="a">
+        <ans letter="a">30 grade C</ans>
+        <ans letter="b">20 grade C</ans>
+        <ans letter="c">60 grade C</ans>
+        <ans letter="d">10 grade C</ans>
+    </entry>
+
+    <entry text="In care capitol din Cartea Exodului se gasesc cele 10 porunci? (1-9)" ans="5">
+    </entry>
+
+    <entry text="In cate moduri poate fi folosit limbajul non-procedural SQL? (1-9)" ans="2">
+    </entry>
+
+    <entry text="Ce vitamina NU exista?" ans="c">
+        <ans letter="a">K</ans>
+        <ans letter="b">C</ans>
+        <ans letter="c">J</ans>
+        <ans letter="d">A</ans>
+    </entry>
+
+    <entry text="Daca o pers parcurge o distanta in 20 de min, in cat timp vor parcurge aceeasi distanta 5 persoane?" ans="d">
+        <ans letter="a">200 min</ans>
+        <ans letter="b">100 min</ans>
+        <ans letter="c">4 min</ans>
+        <ans letter="d">Tot atat, daca nu se opresc pe undeva</ans>
+    </entry>
+
+    <entry text="Vrei punct din oficiu?" ans="a">
+        <ans letter="a">Da</ans>
+        <ans letter="b">Nu</ans>
+    </entry>
+
+</questions>
