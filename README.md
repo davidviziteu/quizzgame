@@ -8,3 +8,7 @@ Implementati un server multithreading care suporta oricati clienti. Serverul va 
 
 
 Final grade: 10.5 (out of 8 for a class B project). Got bonus points for extra features and faster submission of the project.
+
+Please read the documentation. 
+
+Libraries used: http://rapidxml.sourceforge.net/
