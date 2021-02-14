@@ -1,6 +1,6 @@
 # quizzgame - Computernetworks project
 
-Please read the documentation for more details. 
+Please read the [documentation](./App_documentation.pdf) for more details. 
 
 course page: https://profs.info.uaic.ro/~computernetworks/
 
